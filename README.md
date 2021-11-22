@@ -12,3 +12,5 @@ Uses Selenium - headless Chrome, fetches the real time data from popular website
 **Note:** Needs the PATH to chromedriver.exe to be edited in the code
 
 The chromedriver can be downloaded as per the version of the chrome installed on your system here: https://chromedriver.chromium.org/downloads
+
+***Using API*** : Use Nse API to fetch the ltp, maynot be real-time during market hours, but does not require chromedriver.
